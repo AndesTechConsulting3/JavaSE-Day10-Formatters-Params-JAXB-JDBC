@@ -33,8 +33,6 @@ public class AppParameters {
             System.out.println(data);
         }
 
-
-
     }
 
 }
